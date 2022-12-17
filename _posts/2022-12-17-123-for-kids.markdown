@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2022-12-17
+img: 123forkids.png
+alt: image-alt
+project-date:
+client:
+category:
+description: 123 for kids is created for the children to learn counting in their local language. We hope you enjoy the app as much we enjoy creating them. Please share the joy with your loved ones and give us a good rating in Google Play Store.
+---
